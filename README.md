@@ -1,2 +1,2 @@
 # Practice
-This repository is for my programming practice project.
+This repository is for my c programming practice project.
